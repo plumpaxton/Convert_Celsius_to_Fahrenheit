@@ -2,6 +2,6 @@
 degree = int(input("enter a degree in celsius: "))
 
 # Make a calculation that turns a number from celsius to Fahrenheit
-fah = degree + 32
+fah = ((9/5) * degree) + 32
 
 print("the temperature in fahrenheit is: ", fah)
