@@ -15,7 +15,7 @@ Figure out which one is a larger number, Celsius or Fahrenheit. Use python to do
 
 Pseudo Code Algorithm: 
 (1) Ask for a degree in Celsius. 
-(2) Add 32 to the number that was given. 
+(2) Multiply 9/5 times the number in degrees Celsius and add 32 
 (3) Return the degree in Fahrenheit. 
 
 Results: 
